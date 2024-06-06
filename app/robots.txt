@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://bokepbocilviral.pages.dev/sitemap.xml
